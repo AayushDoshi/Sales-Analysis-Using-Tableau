@@ -34,5 +34,5 @@ Designed for stakeholders to analyze sales trends, identify market opportunities
 2. Interact with dashboards using filters for detailed analysis.
 3. Share insights with stakeholders through Tableau Server/Online.
 
-#### Thanks.
+#### Thanks - Aayush Doshi.
 ---
